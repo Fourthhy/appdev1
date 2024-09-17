@@ -1,0 +1,7 @@
+Reference Websites
+
+For Jackson Template Reference:
+https://preview.colorlib.com/theme/jackson/
+
+For Clyde Template Reference:
+https://preview.colorlib.com/#clyde
