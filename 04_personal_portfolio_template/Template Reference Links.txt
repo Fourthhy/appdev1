@@ -5,3 +5,6 @@ https://preview.colorlib.com/theme/jackson/
 
 For Clyde Template Reference:
 https://preview.colorlib.com/#clyde
+
+For Clark Template Reference:
+https://themewagon.github.io/clark/
