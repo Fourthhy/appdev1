@@ -15,11 +15,12 @@
   align-items: center;
 }
 
-.AboutPage {
+.AboutPage, .DisplayData {
   color: whitesmoke;
-  margin-left: 20px;
+  margin-left: 10px;
   text-align: center;
 }
+
 
 
 

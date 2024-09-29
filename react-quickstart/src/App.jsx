@@ -18,13 +18,36 @@ function AboutPage() {
   )
 }
 
+const user = {
+  name: "Fourth",
+  CloseFriend: "Psene"
+}
+
+function DisplayData() {
+  return (
+    <p className="DisplayData">
+      Hello, {user.name}!, 
+      <br />you're a close friend of {user.CloseFriend}..
+    </p>
+  )
+}
+
+function DisplayPic() {
+  return (
+    <img src="https://via.placeholder.com/600/92c952" alt="" />
+  )
+}
+
+// JUST UNCOMMENT THE COMPONENTS IN THE APP TO SEE OTHER FUNCTIONALITIES
 export default function App() {
   return (
     <>
 
       <div className="Container">
-        <MyButton />
-        <AboutPage />
+        {/* <MyButton /> */}
+        {/* <AboutPage /> */}
+        {/* <DisplayData /> */}
+        {/* <DisplayPic /> */}
       </div>
       
     </>
