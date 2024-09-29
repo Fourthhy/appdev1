@@ -1,18 +1,24 @@
 import './App.css'
 
-function App() {
 
+function MyButton() {
+  return (
+    <button>This is a button</button>
+  )
+}
+
+
+
+export default function App() {
   return (
     <>
 
       <div className="Container">
-        <p>
-          This is a sample text
-        </p>    
+        <MyButton />
       </div>
       
     </>
   )
 }
 
-export default App
+
