@@ -1,6 +1,8 @@
 import './App.css'
 import './assets/ConditionalRendering.jsx'
 import ConditionalRendering from './assets/ConditionalRendering.jsx'
+import './assets/TernaryOperator.jsx';
+import TernaryOperator from './assets/TernaryOperator.jsx'
 
 function MyButton() {
   return (
@@ -49,7 +51,8 @@ export default function App() {
         {/* <AboutPage /> */}
         {/* <DisplayData /> */}
         {/* <DisplayPic /> */}
-        <ConditionalRendering />
+        {/* <ConditionalRendering /> */}
+        <TernaryOperator />
       </div>
       
     </>
