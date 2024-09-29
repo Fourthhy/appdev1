@@ -5,6 +5,9 @@ import './assets/TernaryOperator.jsx';
 import TernaryOperator from './assets/TernaryOperator.jsx'
 import './assets/ListRendering.jsx'
 import ListRendering from './assets/ListRendering.jsx'
+import './assets/EventResponder.jsx'
+import EventResponder from './assets/EventResponder.jsx'
+
 
 function MyButton() {
   return (
@@ -55,7 +58,8 @@ export default function App() {
         {/* <DisplayPic /> */}
         {/* <ConditionalRendering /> */}
         {/* <TernaryOperator /> */}
-        <ListRendering />
+        {/* <ListRendering /> */}
+        <EventResponder />
       </div>
       
     </>
