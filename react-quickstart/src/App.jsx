@@ -7,7 +7,8 @@ import './assets/ListRendering.jsx'
 import ListRendering from './assets/ListRendering.jsx'
 import './assets/EventResponder.jsx'
 import EventResponder from './assets/EventResponder.jsx'
-
+import './assets/CountButton.jsx'
+import CountButton from './assets/CountButton.jsx';
 
 function MyButton() {
   return (
@@ -59,7 +60,8 @@ export default function App() {
         {/* <ConditionalRendering /> */}
         {/* <TernaryOperator /> */}
         {/* <ListRendering /> */}
-        <EventResponder />
+        {/* <EventResponder /> */}
+        <CountButton />
       </div>
       
     </>
