@@ -7,7 +7,16 @@ function MyButton() {
   )
 }
 
-
+function AboutPage() {
+  return (
+    <>
+    <div className="AboutPage">
+      <h1>About</h1>
+      <p>Hello There! <br /> Kumain ka na ba? </p>
+    </div> 
+    </>
+  )
+}
 
 export default function App() {
   return (
@@ -15,6 +24,7 @@ export default function App() {
 
       <div className="Container">
         <MyButton />
+        <AboutPage />
       </div>
       
     </>
