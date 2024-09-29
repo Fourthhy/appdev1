@@ -1,5 +1,6 @@
 import './App.css'
-
+import './assets/ConditionalRendering.jsx'
+import ConditionalRendering from './assets/ConditionalRendering.jsx'
 
 function MyButton() {
   return (
@@ -48,6 +49,7 @@ export default function App() {
         {/* <AboutPage /> */}
         {/* <DisplayData /> */}
         {/* <DisplayPic /> */}
+        <ConditionalRendering />
       </div>
       
     </>
