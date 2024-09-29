@@ -3,6 +3,8 @@ import './assets/ConditionalRendering.jsx'
 import ConditionalRendering from './assets/ConditionalRendering.jsx'
 import './assets/TernaryOperator.jsx';
 import TernaryOperator from './assets/TernaryOperator.jsx'
+import './assets/ListRendering.jsx'
+import ListRendering from './assets/ListRendering.jsx'
 
 function MyButton() {
   return (
@@ -52,7 +54,8 @@ export default function App() {
         {/* <DisplayData /> */}
         {/* <DisplayPic /> */}
         {/* <ConditionalRendering /> */}
-        <TernaryOperator />
+        {/* <TernaryOperator /> */}
+        <ListRendering />
       </div>
       
     </>
