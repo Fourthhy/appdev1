@@ -48,6 +48,7 @@ function DisplayPic() {
 }
 
 // JUST UNCOMMENT THE COMPONENTS IN THE APP TO SEE OTHER FUNCTIONALITIES
+
 export default function App() {
   return (
     <>
