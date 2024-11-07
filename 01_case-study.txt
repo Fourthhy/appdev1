@@ -1,0 +1,22 @@
+1. As a manager - 
+How would you handle the situation when a key team member faces a personal issue that affects the project timeline? What steps would you take to ensure the team stays on track, and how would you communicate with both the client and your team?
+
+If circumstances are given and the member really needs to leave or momentarility be suspended from contributing from the prjoect, discover and  analyze the tasks that is assigned to the said key member.
+
+Then assess the tasks and call a meeting with the team that is member is involved to gather suggestions and distribute the task, to all members in possibly handling the leftover tasks. Distributing it so all members can share a burden thus reducing the chances of inequality.
+
+After doing those initial steps, report to the client about the situtation and the initial actions taken to notify them about the progress, so they can think about extending the deadline further because of the circumstances  
+
+2. As a developer - 
+Practical thinking: Emergency situations are unpredictable, so as a developer, I will do my task before the deadline so I can make progress even when emergencies happen.
+
+But in this situation, I might suggest that I can offer time and presence (virtually) to help the team in understanding the task given to me. Even when my leftover tasks are distributed, there are still chances that other members have a different learning curve than I do, so I will help in making them understand what is going on my side / part of the project. 
+
+I will make time to communicate with my manager and peer developers to stay updated, not all emergency situations last long, so I can get back quickly as soon as possible, finish the project and think about contracting to other projects so I can prioritize only taking care of the situation without left responsibilities.
+
+3. What could have been done better?
+They can do strategies like, not assigning the task to one member only. Given the situation, I think the member is the only one assigned to that particular task and cruicial. 
+
+It is better to assign the task to two or more member, or assign an "Emergency member/s" to the task so incase the situation occurs again, it can minimize the risk of jeopardising the ability to meed deadlines and potential lost of project.
+
+

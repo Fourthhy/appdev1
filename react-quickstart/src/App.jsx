@@ -62,7 +62,7 @@ export default function App() {
         {/* <TernaryOperator /> */}
         {/* <ListRendering /> */}
         {/* <EventResponder /> */}
-        <CountButton />
+        {/* <CountButton /> */}
       </div>
       
     </>
